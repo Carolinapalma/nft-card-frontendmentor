@@ -114,7 +114,7 @@ Buscar conhecer mais psudo-classes para fazer um código mais limpo e que facili
 
 ### Links
 
-- [GitHub Page](https://)
+- [GitHub Page](https://carolinapalma.github.io/nft-card-frontendmentor/)
 
 - [Linkedin](https://www.linkedin.com/in/carolina-palma-medeiros/) 
 
