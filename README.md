@@ -86,7 +86,7 @@ Os usuários devem ser capazes de:
 
 ## <p align="center">Autora</p>
 
-Carolina Palma
+### Carolina Palma
 
 - [Linkedin](https://www.linkedin.com/in/carolina-palma-medeiros/) 
 
