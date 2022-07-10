@@ -84,7 +84,7 @@ Os usuários devem ser capazes de:
 
 ---
 
-### <p align="center">Autora</p>
+## <p align="center">Autora</p>
 
 Carolina Palma
 
